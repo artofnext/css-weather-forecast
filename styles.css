@@ -24,7 +24,6 @@ ul {
 }
 
 li {
-    
     display: inline-block;
     height: 150px;
     font-size: 20px;
@@ -45,6 +44,8 @@ li div {
 
 li p:last-child {
     opacity: 0.7;
+    /* vertical-align: text-top;
+    line-height: 80px; */
 }
 
 i {
