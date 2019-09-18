@@ -1,0 +1,101 @@
+body {
+    font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+    color: white;
+    font-size: 1em;
+    background-color:#3399CC;
+    border: 1.5em solid #2B81AC;
+    margin: 0;
+}
+
+main {
+    padding-bottom: 5em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    font-size: 0;
+    border: 3px solid white;
+    background-color: white;
+}
+
+li {
+    
+    display: inline-block;
+    height: 150px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: #3399CC;
+    vertical-align: middle;
+}
+
+/* all this is just for centering */
+li div {
+    width: 10000px; /* looks silly, but it's work */
+    height: 150px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+li p:last-child {
+    opacity: 0.7;
+}
+
+i {
+    font-size: 30px;
+}
+
+ul:hover li {
+    opacity: 0.7;
+    transition: all 0.3s ease-in-out;
+}
+
+ul:hover li:hover {
+    opacity: 1;
+}
+
+.container {
+    max-width: 985px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.block25 {
+    width: 25%;
+}
+
+.block50 {
+    width: 50%;
+}
+
+.block100 {
+    width: 100%;
+}
+
+.blue {background-color: #3399CC;}
+
+.cyan {background-color: #33CCCC}
+
+.rose {background-color: #996699}
+
+.red {background-color: #C24747}
+
+.orange {background-color: #E2674A}
+
+.yellow {background-color: #FFCC66}
+
+.salad {background-color: #99CC99}
+
+.sea {background-color: #669999}
+
+.raspberry {background-color: #CC6699}
+
+.green {background-color: #339966}
+
+.violet {background-color: #666699}
