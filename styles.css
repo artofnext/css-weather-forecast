@@ -81,24 +81,24 @@ ul:hover li:hover {
     width: 100%;
 }
 
-.blue {background-color: #3399CC;}
+#blue {background-color: #3399CC;}
 
-.cyan {background-color: #33CCCC}
+#cyan {background-color: #33CCCC}
 
-.rose {background-color: #996699}
+#rose {background-color: #996699}
 
-.red {background-color: #C24747}
+#red {background-color: #C24747}
 
-.orange {background-color: #E2674A}
+#orange {background-color: #E2674A}
 
-.yellow {background-color: #FFCC66}
+#yellow {background-color: #FFCC66}
 
-.salad {background-color: #99CC99}
+#salad {background-color: #99CC99}
 
-.sea {background-color: #669999}
+#sea {background-color: #669999}
 
-.raspberry {background-color: #CC6699}
+#raspberry {background-color: #CC6699}
 
-.green {background-color: #339966}
+#green {background-color: #339966}
 
-.violet {background-color: #666699}
+#violet {background-color: #666699}
