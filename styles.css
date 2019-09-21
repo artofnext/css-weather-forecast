@@ -35,11 +35,8 @@ li {
     vertical-align: middle;
 }
 
-/* all this is just for centering */
 li div {
-    width: 10000px; /* looks silly, but it works */
     height: 150px;
-    display: table-cell;
     vertical-align: middle;
     text-align: center;
 }
